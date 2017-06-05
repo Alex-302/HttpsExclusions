@@ -1,6 +1,7 @@
 // FF sync
 accounts.firefox.com
 // FF add-ons (an issue with certificate and add-on update)
+d13itkw33a7sus.cloudfront.net
 8pecxstudios.com
 adtidy.org
 api.adguard.com
